@@ -1,6 +1,4 @@
-**Hi there, I'm Vasko Bistanovski** :wave:
-
-- 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/vasko-bistanovski)
+**Hi there, I'm Vasko** :wave:
 
 :rocket: **Technology Stack**
 
