@@ -1,4 +1,4 @@
-**Hi there, I'm Vasko** :wave:
+**Hi there** :wave:
 
 :rocket: **Technology Stack**
 
