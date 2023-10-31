@@ -1,4 +1,4 @@
-**Hi there** :wave:
+# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hi there, I'm Vasko :wave:
 
 :rocket: **Technology Stack**
 
@@ -17,9 +17,7 @@
 
 :chart_with_upwards_trend: **My GitHub Stats:**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaskobistanovski&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vaskobistanovski)](https://github.com/anuraghazra/github-readme-stats)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaskobistanovski&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vaskobistanovski)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 vaskobistanovski/vaskobistanovski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
